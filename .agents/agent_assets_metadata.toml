@@ -1,0 +1,50 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "a62BIum5JipbZM-okrlwY"
+uri = "file://artifacts/salon/src/assets/images/hero.png"
+type = "image"
+title = "luxury beauty salon hero interior"
+
+[[generated]]
+id = "itmLuIkMFlSiqD1PyXXIY"
+uri = "file://artifacts/salon/src/assets/images/service-haircut.png"
+type = "image"
+title = "professional haircut service"
+
+[[generated]]
+id = "N-IRa9a_9PAuxQswnWjRk"
+uri = "file://artifacts/salon/src/assets/images/service-facial.png"
+type = "image"
+title = "luxury facial treatment"
+
+[[generated]]
+id = "PsHP9NiSi1j6jdcUhZT-X"
+uri = "file://artifacts/salon/src/assets/images/service-makeup.png"
+type = "image"
+title = "glamorous makeup application"
+
+[[generated]]
+id = "rpVPQk-3nFRHjwKrat4m7"
+uri = "file://artifacts/salon/src/assets/images/service-styling.png"
+type = "image"
+title = "elegant hair styling"
+
+[[generated]]
+id = "Cv5kREx1aWpwS9jSracIR"
+uri = "file://artifacts/salon/src/assets/images/gallery-1.png"
+type = "image"
+title = "beautiful salon portrait 1"
+
+[[generated]]
+id = "Sc35c3hfoQElsfllFP3g2"
+uri = "file://artifacts/salon/src/assets/images/gallery-2.png"
+type = "image"
+title = "beautiful salon portrait 2"
+
+[[generated]]
+id = "90kPjK5Y2lqaCsUBXuadU"
+uri = "file://artifacts/salon/src/assets/images/gallery-3.png"
+type = "image"
+title = "beautiful salon portrait 3"
