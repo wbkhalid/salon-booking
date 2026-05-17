@@ -3,6 +3,10 @@
   publish = "artifacts/salon/dist/public"
   functions = "artifacts/api-server/dist"
 
+[functions]
+  node_bundler = "esbuild"
+  format = "esm"
+
 [build.environment]
   NODE_VERSION = "20"
   PNPM_FLAGS = "--shamefully-hoist"
