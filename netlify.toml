@@ -5,6 +5,7 @@
 
 [functions]
   node_bundler = "esbuild"
+  external_node_modules = ["pino", "pino-http", "pino-pretty", "thread-stream"]
 
 [build.environment]
   NODE_VERSION = "20"
