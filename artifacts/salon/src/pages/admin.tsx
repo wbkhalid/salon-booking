@@ -72,6 +72,8 @@ export default function Admin() {
     logoutMutation.mutate(undefined, {
       onSuccess: () => {
         toast({ title: "Logged out" });
+        setPassword("");
+        queryClient.clear();
         queryClient.invalidateQueries({ queryKey: ["/api/admin/me"] });
       },
     });
