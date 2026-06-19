@@ -9,6 +9,8 @@ import session from "express-session";
 const app: Express = express();
 const sessionSecret = process.env.SESSION_SECRET ?? "looks-n-styles-secret";
 
+app.set("trust proxy", 1);
+
 app.use(
   pinoHttp({
     logger,
